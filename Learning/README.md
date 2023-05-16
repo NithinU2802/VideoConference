@@ -5,6 +5,11 @@ get into learning and then move on to the implementation process further we plan
 
     # Learn Technology Used --> Learn Code --> Implementation  --> Plan to make Updation 
 
-    As we know that for an communication socket plays major role to create communication between two programs on different 
-device available in the network....!
-    Move on to Socket learning and further we can find how to make communications on the above programs...!
+    Learning Sockets:
+             An Socket is an package available in java inorder to make communication between two Nodes...!
+
+Project Configuration: 
+      # JMF - Java Media File  (Install it form oracle website)
+                jmf is used to access the media port in the system. Which is an collections of packages an library to 
+access the sensors or devices available in the local machine...!
+      # Also Make sure that Java JDK is available in Your system...! 
