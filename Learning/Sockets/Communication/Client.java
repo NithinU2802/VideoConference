@@ -31,6 +31,6 @@ public class Client{
         }
     }
     public static void main(String[] arg){
-        Client client=new Client("127.0.0.1", 6000);
+        Client client=new Client("2409:4072:6c06:2629:b8ef:8ec5:3816:f87b", 6000);
     }
 }
